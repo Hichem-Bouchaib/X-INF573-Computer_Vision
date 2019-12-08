@@ -8,5 +8,5 @@ The goal of Computer Vision is to compute **properties of the world from digital
 
 These topics will be discussed in terms of algorithms and mathematical tools, from basic principles to deep learning. The applications will be developed in C++. The knowledge of this language is not a prerequisite and part of the course is devoted to its learning.
 
-### Develoment environment ###
+### Development environment ###
 OpenCV and C++ using Xcode
